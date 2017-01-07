@@ -1,0 +1,11 @@
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.user-name {
+    font-size: 40px;
+}
+
+.user-avatar img {
+    max-width: 100%;
+}
